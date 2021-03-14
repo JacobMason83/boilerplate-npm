@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": 'Jacob Mason',
+	"author": "Jacob Mason",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"helmet": "^3.21.3"
 	},
-	
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
